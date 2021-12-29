@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f24aalam&" alt="f24aalam" /></p>
 
-# Blog posts
+# Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Laravel Livewire Drag-n-Drop Files Upload Using AlpineJS](https://f24aalam.medium.com/laravel-livewire-drag-n-drop-files-upload-using-alpinejs-37d5b80d3eb9?source=rss-be36d032b2f6------2)
