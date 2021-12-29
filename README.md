@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f24aalam&show_icons=true&locale=en" alt="f24aalam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f24aalam&" alt="f24aalam" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
