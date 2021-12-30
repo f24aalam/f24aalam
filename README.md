@@ -7,7 +7,7 @@
 
 ***
   
-- 🔭 I’m currently working on [Chromentum](https://github.com/chromentum)
+- 🔭 I’m currently working on [Chromentum](https://github.com/chromentum) and [Taukeet](https://github.com/taukeet/)
 
 - 📝 I regularly write articles on [https://medium.com/@f24aalam](https://medium.com/@f24aalam)
 
