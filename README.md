@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Aalam</h1>
 <h3 align="center">A passionate full stack developer by ❤️</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=f24aalam&label=Profile%20views&color=0e75b6&style=flat" alt="f24aalam" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f24aalam" alt="f24aalam" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/f24aalam" target="blank"><img src="https://img.shields.io/twitter/follow/f24aalam?logo=twitter&style=for-the-badge" alt="f24aalam" /></a> </p>
