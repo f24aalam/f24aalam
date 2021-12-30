@@ -27,6 +27,7 @@
 # Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify App With Laravel, InertiaJs, and Polaris](https://f24aalam.medium.com/shopify-app-with-laravel-inertiajs-and-polaris-16642caeac1b?source=rss-be36d032b2f6------2)
 - [Laravel Livewire Drag-n-Drop Files Upload Using AlpineJS](https://f24aalam.medium.com/laravel-livewire-drag-n-drop-files-upload-using-alpinejs-37d5b80d3eb9?source=rss-be36d032b2f6------2)
 <!-- BLOG-POST-LIST:END -->
 
