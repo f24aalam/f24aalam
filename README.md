@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on [Chromentum](https://github.com/chromentum) and [Taukeet](https://github.com/taukeet/)
 
-- 📝 I regularly write articles on [https://medium.com/@f24aalam](https://medium.com/@f24aalam)
+- 📝 I write articles on [https://medium.com/@f24aalam](https://medium.com/@f24aalam)
 
 - 📫 How to reach me **f24aalam@gmail.com**
 
